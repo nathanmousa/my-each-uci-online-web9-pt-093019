@@ -7,6 +7,7 @@ def my_each(array)
   end
 end
 
+tas = []
 my_each(tas) do |ta|
   return ta
 end
