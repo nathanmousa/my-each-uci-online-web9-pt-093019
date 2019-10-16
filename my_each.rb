@@ -7,7 +7,7 @@ def my_each(array)
   end
 end
 
-collection = ["arel", "jon", ]
+collection = ["arel", "jon", "logan", "spencer"]
 my_each(collection) do |i|
   i
 end
