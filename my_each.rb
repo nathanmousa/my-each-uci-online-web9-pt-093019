@@ -7,7 +7,6 @@ def my_each(array)
   end
 end
 
-collection = ["arel", "jon", "logan", "spencer"]
-my_each(collection) do |i|
-  i
+my_each(tas) do |ta|
+  return ta
 end
