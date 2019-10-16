@@ -10,5 +10,4 @@ end
 
 tas = []
 my_each(tas) do |ta|
-  
 end
